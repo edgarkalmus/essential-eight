@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/essential-eight/static/css/main.6972e9e5.css",
+    "main.js": "/essential-eight/static/js/main.a21369c9.js",
+    "static/js/239.f9135672.chunk.js": "/essential-eight/static/js/239.f9135672.chunk.js",
+    "static/js/213.828a8799.chunk.js": "/essential-eight/static/js/213.828a8799.chunk.js",
+    "static/js/732.b9dd36f3.chunk.js": "/essential-eight/static/js/732.b9dd36f3.chunk.js",
+    "index.html": "/essential-eight/index.html",
+    "main.6972e9e5.css.map": "/essential-eight/static/css/main.6972e9e5.css.map",
+    "main.a21369c9.js.map": "/essential-eight/static/js/main.a21369c9.js.map",
+    "239.f9135672.chunk.js.map": "/essential-eight/static/js/239.f9135672.chunk.js.map",
+    "213.828a8799.chunk.js.map": "/essential-eight/static/js/213.828a8799.chunk.js.map",
+    "732.b9dd36f3.chunk.js.map": "/essential-eight/static/js/732.b9dd36f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6972e9e5.css",
+    "static/js/main.a21369c9.js"
+  ]
+}
