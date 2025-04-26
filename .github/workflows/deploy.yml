@@ -29,3 +29,5 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./build
+        publish_branch: gh-pages  # ✅ force deploy into gh-pages
+        force_orphan: true        # ✅ create gh-pages branch if missing
